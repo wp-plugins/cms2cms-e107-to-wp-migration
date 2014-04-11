@@ -7,7 +7,7 @@ Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will help you to move all website content from e107 to WordPress swiftly and accurately in a few simple steps with no coding skills necessary.
+This plugin will help you to move all website content from e107 to WordPress swiftly and accurately with no coding skills necessary.
 
 == Description ==
 
