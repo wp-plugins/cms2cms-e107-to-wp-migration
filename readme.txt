@@ -32,10 +32,11 @@ This plugin will help you to move all website content from e107 to WordPress swi
 * Demo migration available
 * takes on average 15 minutes
 
-**Important. This plugin does not migrate design. **
+**Important. This plugin does not migrate design.**
+
 You also need to install the connection bridge which is necessary for data conversion from e107 to WordPress, so you will be redirected to CMS2CMS site in order to set up the transfer. 
 
-For more information on the migration, click here: http://www.cms2cms.com/supported-cms/e107-to-wordpress-migration/
+= For more information on the migration, click here: http://www.cms2cms.com/supported-cms/e107-to-wordpress-migration/ =
 
 == Installation ==
 
