@@ -15,6 +15,9 @@ This plugin will help you to move all website content from e107 to WordPress swi
 
 = Supported versions: e107 1.x and WordPress 3.x. =
 
+* *There is Free Demo available (migration of limited number of pages, users, comments).*
+* *Full Migration starts from $39.*
+
 = Following content can be moved: =
 * Pages
 * Posts
