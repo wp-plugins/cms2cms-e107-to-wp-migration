@@ -25,6 +25,7 @@ This plugin will help you to move all website content from e107 to WordPress swi
 * Content images
 * Users
 
+
 = Additional Migration Options =
 * clear wordPress test data before the migration
 * build links according to the the WordPress URLs SEO structure
