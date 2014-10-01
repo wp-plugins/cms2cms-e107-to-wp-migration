@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: e107 to wordpress, e107 to wordpress mirgation, convert e107 to wordpress, migrate e107 to wordpress
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ This plugin will help you to move all website content from e107 to WordPress swi
 
 This plugin will help you to move all website content from e107 to WordPress swiftly and accurately in a few simple steps with no coding skills necessary.    
 
-* *Supported versions: e107 1.x and WordPress 3.x. *
+* *Supported versions: e107 1.x and WordPress 4.x. *
 
 * *There is Free Demo available (migration of limited number of pages, users, comments).*
 * *Full Migration starts from $39.*
@@ -43,7 +43,7 @@ This plugin will help you to move all website content from e107 to WordPress swi
 
 You also need to install the connection bridge which is necessary for data conversion from e107 to WordPress, so you will be redirected to CMS2CMS site in order to set up the transfer. 
 
-= For more information on the migration, click here: http://www.cms2cms.com/supported-cms/e107-to-wordpress-migration/ =
+= For more information on the migration, click here: http://www.cms2cms.com/supported-cms/e107-to-wordpress-migration/?utm_source=e107&utm_medium=Link&utm_campaign=WordPress_plugins =
 
 == Installation ==
 
