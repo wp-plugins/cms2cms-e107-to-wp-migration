@@ -41,10 +41,10 @@ This plugin will help you to move all website content from e107 to WordPress swi
 
 **Important. This plugin does not migrate design.**
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 You also need to install the connection bridge which is necessary for data conversion from e107 to WordPress, so you will be redirected to CMS2CMS site in order to set up the transfer. 
 
